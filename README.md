@@ -1,0 +1,1 @@
+Coloque aqui o arquivo binário da logo fornecida no ZIP original.
